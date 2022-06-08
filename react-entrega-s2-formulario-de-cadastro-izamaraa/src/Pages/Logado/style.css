@@ -1,0 +1,12 @@
+.logado {
+  display: flex;
+  flex-direction: column;
+}
+button {
+  width: 100px;
+  height: 50px;
+  border-radius: 3px;
+  border-style: none;
+  background-color: rgb(64, 64, 116);
+  color: white;
+}
